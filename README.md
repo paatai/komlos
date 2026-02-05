@@ -3,7 +3,7 @@
 Interactive demonstration of signing unit vectors to keep the ℓ_∞ norm of their sum bounded.
 
 **Try it live:**
-[![Google Colab]]([https://mybinder.org/v2/gh/paatai/vector-signing-demo/main](https://colab.research.google.com/drive/15tdA5kr1BDuECJ7t9g1z6scqL81sgiqJ?usp=sharing))
+[[![Google Colab]]([https://mybinder.org/v2/gh/paatai/vector-signing-demo/main](https://colab.research.google.com/drive/15tdA5kr1BDuECJ7t9g1z6scqL81sgiqJ?usp=sharing))](https://colab.research.google.com/drive/15tdA5kr1BDuECJ7t9g1z6scqL81sgiqJ?usp=sharing)
 
 - Toggle blue/red buttons to flip vector signs
 - Use Random, Greedy, Monte Carlo buttons
